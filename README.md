@@ -14,7 +14,7 @@
 * DCGAN : Data Augmentation
 * Using Pytorch backend.
 
-![Variable Declaration](/img/mango.png)
+![Variable Declaration](/img/GANmango.png)
 
 * Deep Learning Classifier : CNN & VGG
 * Machine Learning : Ensemble Learning
