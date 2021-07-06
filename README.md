@@ -11,7 +11,9 @@
 ## Model detail
 * DCGAN : Data Augmentation
 * Using Pytorch backend.
+
 ![Variable Declaration](/img/image3.jpeg)
+
 * Deep Learning Classifier : CNN & VGG
 * Machine Learning : Ensemble Learning
 * Using Tensorflow backend. Sometimes we use Keras, which is the core of Tensorflow.
@@ -21,5 +23,6 @@
 * -> Classifier 2 -> Classifier 3 -> Ensemble learning
 * -> Reading GAN A/B/C to train models 1, 2 and 3 (optional)
 * The output of the labeling process: filenames and the grades of the mangoes presented in Capitalized letters.
+
 ![Variable Declaration](/img/image1.png)
 
