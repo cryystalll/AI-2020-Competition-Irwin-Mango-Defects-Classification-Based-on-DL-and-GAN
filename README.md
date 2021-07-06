@@ -6,6 +6,8 @@
 * GAN 
 * Python
 * Tensorflow
+* Jupyter
+* Anaconda
 * Google Colab
 * GPU
 ## Model detail
