@@ -8,7 +8,6 @@
 * Tensorflow
 * Google Colab
 * GPU
-![Variable Declaration](/img/image2.png)
 ## Model detail
 * DCGAN : Data Augmentation
 * Using Pytorch backend.
