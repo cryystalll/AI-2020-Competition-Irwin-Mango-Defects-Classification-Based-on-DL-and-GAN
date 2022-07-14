@@ -22,7 +22,7 @@ Machine Learning : Ensemble Learning
 * A model to Generate more images 
 ```
 To optimize the accuracy of mango image classifier
-, I use it to generate more images for traning model of better efficacy.
+, I use GAN to generate more images for traning model of better efficacy.
 ```
 <div align=center><img src="GAN_Mango/Generate_Image/fake_1_1.jpg" alt="Cover" width="25%"/></div>
 
