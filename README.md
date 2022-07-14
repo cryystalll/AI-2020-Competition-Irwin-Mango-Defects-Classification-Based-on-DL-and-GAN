@@ -18,6 +18,14 @@ DCGAN : Data Augmentation Using Pytorch backend.
 Deep Learning Classifier : CNN & VGG Using Tensorflow and Keras backend.
 Machine Learning : Ensemble Learning
 ```
+## GAN (Generative Adversarial Network)
+* A model to Generate more images 
+```
+To optimize the accuracy of mango image classifier
+, I use it to generate more images for traning model of better efficacy.
+```
+<div align=center><img src="GAN_Mango/Generate_Image/fake_1_1.jpg" alt="Cover" width="25%"/></div>
+
 ## Workflow Summary
 ```
 Mounting -> Basic I/O and labeling
