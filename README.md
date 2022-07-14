@@ -18,7 +18,7 @@ DCGAN : Data Augmentation Using Pytorch backend.
 Deep Learning Classifier : CNN & VGG Using Tensorflow and Keras backend.
 Machine Learning : Ensemble Learning
 ```
-* Workflow
+## Workflow Summary
 ```
 Mounting -> Basic I/O and labeling
 -> Classifier 1 -> Reading Demo Image
@@ -27,6 +27,12 @@ Mounting -> Basic I/O and labeling
 The output of the labeling process: filenames and the grades of the mangoes presented in Capitalized letters.
 ```
 <div align=center><img src="/img/image1.png" alt="Cover" width="40%"/></div>
+
+## Results and Accuracy
+```
+F1 Score = 0.78
+```
+
 
 
 
